@@ -1,0 +1,11 @@
+0,CombatZoneResize,240,226,406,391,TLResume
+0,HeartTelePort,325,308,,,
+0,HeartMode,0,,,,
+0,TLPause,,,,,
+0,bonestab,0,73,0,99999,
+0,bonestab,1,73,0,99999,
+0,bonestab,2,73,0,99999,
+0,bonestab,3,73,0,99999,
+1,sanstext,surprise,,,,
+0,sanstext,the rest round,,,,
+0,EndAttack,,,,,
